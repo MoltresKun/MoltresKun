@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm a passionate coder who loves exploring new tec
 - 🤓 I'm a nerd at heart, always eager to dive deep into the code and solve challenging problems.
 - 💡 I aspire to make meaningful contributions and build something impactful.
 
+## 🔧 Technologies & Tools
+
 Here are programming languages or tools I frequently used:
 <div>
     <img
