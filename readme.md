@@ -6,6 +6,12 @@ Here are programming languages or tools I frequently used:
     <img
     height="30"
     width="42"
+    alt="Python"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+  />
+    <img
+    height="30"
+    width="42"
     alt="Typescript"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
   />
@@ -13,18 +19,12 @@ Here are programming languages or tools I frequently used:
     height="30"
     width="42"
     alt="Javascript"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-  />
-    <img
-    height="30"
-    width="42"
-    alt="Python"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"
   />
     <img
     height="30"
     width="42"
     alt="Lua"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"
   />
 </div>
