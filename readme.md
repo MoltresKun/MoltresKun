@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate coder who loves exploring new tec
 
 ## 🔧 Technologies & Tools
 
-Here are programming languages or tools I frequently used:
+Here are programming languages that I frequently used:
 <div>
     <img
     height="30"
@@ -33,5 +33,21 @@ Here are programming languages or tools I frequently used:
     width="42"
     alt="Lua"
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg"
+  />
+</div>
+
+For the tools, here the software and app that I frequently used:
+<div>
+    <img
+    height="30"
+    width="42"
+    alt="Visual Studio Code"
+    src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+  />
+    <img
+    height="30"
+    width="42"
+    alt="Visual Studio"
+    src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg"
   />
 </div>
