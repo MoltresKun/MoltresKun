@@ -54,3 +54,9 @@ For the tools, here the software and app that I frequently used:
 
 ## 📈 GitHub Stats
 ![MoltresKun Stats](https://github-readme-stats.vercel.app/api?username=MoltresKun&show_icons=true&theme=radical)
+
+Feel free to check out my repositories and get in touch. Let's build something amazing together!
+
+---
+
+⭐️ From Moltres
