@@ -1,4 +1,4 @@
-# Hi there! hope you doing well!
+# Hi there! Moltres here.
 I'm still Learning to be better in this code universe!
 
 Here are programming languages or tools I frequently used:
